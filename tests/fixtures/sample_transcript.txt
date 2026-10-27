@@ -1,0 +1,71 @@
+Northwind Robotics, Inc. (fictional company) -- Q3 Fiscal 2026 Earnings Conference Call
+SYNTHETIC SAMPLE TRANSCRIPT FOR TESTING AND DEMOS. The company, people, and figures are invented.
+
+Operator
+Good afternoon, and welcome to the Northwind Robotics third quarter fiscal 2026 earnings conference call. At this time, all participants are in a listen-only mode. After the speakers' prepared remarks, there will be a question-and-answer session. As a reminder, this call is being recorded. I would now like to turn the call over to Priya Natarajan, Vice President of Investor Relations. Please go ahead.
+
+Priya Natarajan -- Vice President, Investor Relations
+Thank you, operator, and good afternoon, everyone. With me today are Elena Varga, our Chief Executive Officer, and Marcus Bell, our Chief Financial Officer. Before we begin, please note that today's discussion contains forward-looking statements, including our outlook for the fourth quarter and full fiscal year, which are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the risk factors in our most recent annual report on Form 10-K. We will also discuss non-GAAP measures; reconciliations to the most comparable GAAP measures are in today's press release. With that, I will turn the call over to Elena.
+
+Elena Varga -- Chief Executive Officer
+Thanks, Priya, and thank you all for joining us. Northwind delivered a strong third quarter. Revenue was $412.6 million, up 18% year over year, driven by record shipments of our Atlas autonomous mobile robots to warehouse and logistics customers. Recurring software and service revenue grew 31% and now represents 27% of total revenue, which is a key part of our strategy to build a more predictable, higher-margin business.
+Demand remains healthy. We ended the quarter with a backlog of $1.2 billion, up 22% from a year ago, and we signed 41 new enterprise customers, including two of the five largest grocery distributors in North America. Our book-to-bill ratio was 1.15, the sixth consecutive quarter above one.
+On products, we began volume shipments of Atlas Gen 4, which carries 40% more payload and uses our new vision software. Early customer data shows a 25% improvement in picks per hour compared with Gen 3. We also launched Fleet Insight, a subscription analytics product, and more than 300 sites activated it in the first eight weeks.
+We are not immune to the macro environment. Some customers in general merchandise retail are taking longer to approve large projects, and tariffs on imported motors and batteries raised our component costs this quarter. We are qualifying a second battery supplier in Mexico and expect it to be in production by the middle of next year.
+Finally, we continue to invest for the long term. Research and development spending was 14% of revenue, and we opened a new engineering center in Krakow focused on navigation software. I am proud of what the team delivered, and I will now hand it over to Marcus to walk through the financials and our outlook.
+
+Marcus Bell -- Chief Financial Officer
+Thank you, Elena. Third quarter revenue of $412.6 million was above the high end of our guidance range. Hardware revenue was $301.2 million, up 13%, and software and services revenue was $111.4 million, up 31%. GAAP gross margin was 46.8%, down 90 basis points from a year ago, mainly because of tariffs and higher freight costs, partly offset by the growing software mix. GAAP operating margin was 12.1%, compared with 13.4% a year ago, and non-GAAP operating margin was 18.9%. GAAP net income was $41.3 million, or $0.52 per diluted share. Stock-based compensation was $27.5 million, or 6.7% of revenue.
+Turning to the balance sheet and cash flow. Operating cash flow was $61.0 million and capital expenditures were $22.8 million, so free cash flow was $38.2 million. We ended the quarter with $611 million in cash and investments and $350 million of convertible notes due in 2029. Accounts receivable increased to $309 million, and days sales outstanding rose to 68 days from 55 days a year ago, mainly because several large Gen 4 deployments were accepted late in the quarter and two distribution customers moved to longer payment terms. We expect DSO to return to the low 60s by the end of the fiscal year. Inventory was $188 million, up 9% year over year, as we built safety stock of batteries ahead of the supplier transition.
+On capital allocation, our priorities remain organic investment first, then selective tuck-in acquisitions, and then returning excess cash to shareholders. During the quarter we repurchased $45 million of stock, and today our board approved a new $150 million share repurchase authorization.
+Now to our outlook. For the fourth quarter, we expect revenue between $430 million and $445 million, GAAP gross margin of 46% to 47%, and non-GAAP operating margin of approximately 19%. For the full fiscal year 2026, we are raising our revenue guidance to a range of $1.64 billion to $1.66 billion, from $1.60 billion to $1.63 billion previously, which implies growth of about 17% at the midpoint. We now expect full-year capital expenditures of approximately $95 million and free cash flow of $140 million to $160 million. Our outlook assumes current tariff rates remain in place. With that, operator, please open the line for questions.
+
+Question-and-Answer Session
+
+Operator
+Thank you. Our first question comes from the line of Maya Chen with Harborview Securities. Please go ahead.
+
+Maya Chen -- Harborview Securities
+Thanks, and congratulations on the quarter. Elena, you mentioned some retail customers are taking longer to approve projects. Can you size that, and how much of the raised guidance depends on deals that are not yet signed?
+
+Elena Varga -- Chief Executive Officer
+Thanks, Maya. The slowdown is concentrated in general merchandise retail, which is about 15% of our backlog. We saw approval cycles stretch from roughly four months to six months. Grocery, third-party logistics, and healthcare distribution remain strong. For the fourth quarter, more than 85% of the revenue at the midpoint of our guidance is already in backlog, so the raise is mostly about execution on signed orders rather than new bookings.
+
+Maya Chen -- Harborview Securities
+That is helpful. And Marcus, on gross margin, how much did tariffs cost you this quarter, and when do you expect relief?
+
+Marcus Bell -- Chief Financial Officer
+Tariffs and freight together cost us roughly 120 basis points of gross margin in the quarter. We have pricing actions taking effect in January, and once the second battery supplier ramps we expect to recover about half of that headwind by the second half of next year. We are not assuming any change in tariff policy.
+
+Operator
+Our next question comes from Tom Okafor with Pinecrest Capital Markets.
+
+Tom Okafor -- Pinecrest Capital Markets
+Hi, thanks. I want to come back to receivables. DSO went from 55 to 68 days, and receivables grew much faster than revenue. Are you extending terms to win deals, and is there any collection risk?
+
+Marcus Bell -- Chief Financial Officer
+Fair question, Tom. About two thirds of the increase is timing: several large Gen 4 sites were accepted in the last two weeks of the quarter, and those invoices were billed but not yet due. The rest reflects two distribution customers that moved to 75-day terms as part of multi-year renewals. We have not seen any increase in past-due balances, and our bad-debt reserve is unchanged. We have already collected about $70 million of the quarter-end balance in October.
+
+Tom Okafor -- Pinecrest Capital Markets
+Thanks. And on capital allocation, why a buyback now rather than paying down the convertible notes?
+
+Marcus Bell -- Chief Financial Officer
+The converts carry a 1.25% coupon and do not mature until 2029, so retiring them early is not an efficient use of cash. The buyback is mainly intended to offset dilution from stock-based compensation, and we will stay disciplined on price.
+
+Operator
+Our next question comes from Sofia Lindqvist with Ridgeline Research.
+
+Sofia Lindqvist -- Ridgeline Research
+Thank you. Several lower-cost competitors from Asia are bidding on mid-size warehouse projects. Are you seeing pricing pressure, and how do you defend share?
+
+Elena Varga -- Chief Executive Officer
+We do see more low-cost competitors in smaller deployments, and in a few bids we chose not to match price. In large multi-site programs, customers care most about uptime, software, and service coverage, and our win rate there was above 60% this quarter. Fleet Insight and our service network are real differentiators. That said, competition is increasing, and we expect hardware pricing to remain tight next year.
+
+Operator
+That concludes our question-and-answer session. I would like to turn the call back to Elena Varga for closing remarks.
+
+Elena Varga -- Chief Executive Officer
+Thank you, everyone. We delivered record revenue, raised our full-year outlook, and kept investing in the software platform that we believe will drive the next phase of growth. We look forward to updating you next quarter.
+
+Operator
+This concludes today's conference call. Thank you for participating, and you may now disconnect.

@@ -1,0 +1,3 @@
+[server]
+# Same limit as copilot/transcript.py MAX_UPLOAD_MB, so the uploader shows the real limit.
+maxUploadSize = 20
