@@ -7,3 +7,4 @@ __pycache__/
 tests/fixtures/sec_cache/
 *_IC_memo_*.md
 RESUME_BULLETS.md
+DEMO_SCRIPT.md

@@ -194,20 +194,6 @@ The app never scrapes. Upload a `.txt` or `.pdf` you have the right to use. Many
 - **The LLM can still misread evidence.** The audit catches fabricated citations, numbers and quotes. It cannot catch a real number attached to the wrong claim. Read the cited passages before you vote.
 - **Supported filers.** US domestic filers that file a 10-K. Foreign private issuers (20-F/40-F) get a clear message instead.
 
-## 2-minute demo script
-
-*Before you present:* run your demo ticker once so SEC responses are cached in memory, have the transcript file on your desktop, and keep a second ticker ready. If the API is down or you have no key, pick **None — data-only mode** under Settings. Data-only runs take about 5 seconds; committee runs took 93–130 seconds in testing, so start the run before you begin talking through it.
-
-| Time | Do | Say |
-|---|---|---|
-| 0:00–0:15 | App open, empty. | "Before a committee votes on a stock, an analyst spends hours turning a 10-K and an earnings call into a memo. This copilot drafts that memo in about two minutes, and every sentence is traceable to a source." |
-| 0:15–0:35 | Type `[TICKER]`, upload the transcript, click **Convene the committee**. The status box streams the steps. | "It maps the ticker to its SEC CIK, pulls the latest 10-K and finds Items 1, 1A and 7. It gets five years of XBRL financials, market data from Yahoo, and indexes everything with BM25." |
-| 0:35–0:55 | **Memo** tab: the vote line, then the 3-bullet thesis. Point at a `[E3 · 10-K Item 1A]` citation. | "Three agents argued: a bull, a bear and a risk officer. Then a chair checked their arguments against the evidence, wrote this memo and voted. Every claim cites an evidence ID, and quotes are checked word for word against the filing." |
-| 0:55–1:15 | Scroll to **Financial snapshot** and **What management said vs. what the numbers show**. | "The numbers are never written by the LLM. They come straight from SEC data. And this table checks what management said on the call against what the filings show." |
-| 1:15–1:35 | **Red flags** tab. | "These are deterministic checks. Here receivables grew faster than revenue. Each flag shows its numbers and the XBRL tags it came from, and the committee has to say whether it's a real problem or benign." |
-| 1:35–1:50 | **Diagnostics** tab, citation audit. | "This is the guardrail. If a claim has no valid citation, or cites a number that isn't in its source, it gets deleted. So does any quote that isn't in the filing. On this run it dropped 2 claims and removed 0 quotes." *(Measured on the 2026-10-20 PLTR run with the final prompts; across sixteen test runs the audit dropped 0–3 claims and removed 0–3 quotes per run. Read the real counts for your run from Appendix B.)* |
-| 1:50–2:00 | Click **Download memo (.md)**. | "One click exports the memo. With no API key it still runs and shows the financials, flags and evidence, so the demo never breaks." |
-
 ## License
 
 [MIT](LICENSE). Educational project, not investment advice.
